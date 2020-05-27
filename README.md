@@ -3,12 +3,15 @@ A comparison of two feature engineering methods to predict nationality from name
 
 The Naive Bayes classifier is a model based upon counting and conditional probabilities. The quick & dirty codes do this from scratch. What is the point of this? I don't know, but it was a good exercise.
 
+![alt text](https://s3.ap-south-1.amazonaws.com/techleer/204.png)
+
 ### Data
 Predictor: Name
 Predicted: Nationality
 - Chinese
 - Korean
 - Japanese
+
 
 ### Features
 1. 1st Approximation: Create a new dummy variable to indicate the presence of each alphabet in a name.
