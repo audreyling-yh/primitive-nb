@@ -1,7 +1,5 @@
 # primitive-nb
-A comparison of two feature engineering methods to predict nationality from name using a Naive Bayes classifier. As a fun challenge, the codes were written with minimal packages (ie. no pandas, scikit-learn, etc).
-
-The Naive Bayes classifier is a probabilistic model based upon counting and conditional probabilities. This is done from scratch in the codes.
+A comparison of two feature engineering methods to predict nationality from name using a Naive Bayes classifier. As a fun challenge, the codes were written with minimal packages (ie. no pandas, scikit-learn, etc). The Naive Bayes classifier is a model based upon counting and conditional probabilities. The codes do this from scratch. What is the point of this? I don't know, but it was a good exercise.
 
 ### Data
 Predictor: Name
